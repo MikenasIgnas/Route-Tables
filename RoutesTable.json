@@ -1,37 +1,37 @@
 [
     {
-        "RoutePK": 1,
-        "Route Number": 1,
-        "Floor": "n/a"
+        "routeId": 1,
+        "routeNumber": 1,
+        "floor": "n/a"
     },
     {
-        "RoutePK": 2,
-        "Route Number": 2,
-        "Floor": 1
+        "routeId": 2,
+        "routeNumber": 2,
+        "floor": 1
     },
     {
-        "RoutePK": 3,
-        "Route Number": 3,
-        "Floor": 1
+        "routeId": 3,
+        "routeNumber": 3,
+        "floor": 1
     },
     {
-        "RoutePK": 4,
-        "Route Number": 4,
-        "Floor": 1
+        "routeId": 4,
+        "routeNumber": 4,
+        "floor": 1
     },
     {
-        "RoutePK": 5,
-        "Route Number": 5,
-        "Floor": 1
+        "routeId": 5,
+        "routeNumber": 5,
+        "floor": 1
     },
     {
-        "RoutePK": 6,
-        "Route Number": 6,
-        "Floor": 2
+        "routeId": 6,
+        "routeNumber": 6,
+        "floor": 2
     },
     {
-        "RoutePK": 7,
-        "Route Number": 7,
-        "Floor": "Lauke"
+        "routeId": 7,
+        "routeNumber": 7,
+        "floor": "Lauke"
     }
 ]
