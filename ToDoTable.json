@@ -1,0 +1,102 @@
+[
+    {
+        "ToDoPK": 1,
+        "AreasFK": 1,
+        "Duty": "Apžiūrėti šaldymo įrenginius (ŠM1, ŠM2, ŠM3)"
+    },
+    {
+        "ToDoPK": 2,
+        "AreasFK": 2,
+        "Duty": "Apžiūrėti patalpą"
+    },
+    {
+        "ToDoPK": 3,
+        "AreasFK": 2,
+        "Duty": "patikrinti UPS būseną"
+    },
+    {
+        "ToDoPK": 4,
+        "AreasFK": 2,
+        "Duty": "Patikrinti kondicionieriaus ekranus"
+    },
+    {
+        "ToDoPK": 5,
+        "AreasFK": 3,
+        "Duty": "Apžiūrėti patalpą ir elektros įvadų namelių perimetrą"
+    },
+    {
+        "ToDoPK": 6,
+        "AreasFK": 3,
+        "Duty": "Patikrinti RA2 mikroklimato palaikymo sistemos skydelį"
+    },
+    {
+        "ToDoPK": 7,
+        "AreasFK": 4,
+        "Duty": "Patikrinti šalčio mašinų skydą"
+    },
+    {
+        "ToDoPK": 8,
+        "AreasFK": 4,
+        "Duty": "Patikrinti dūmų šalinimo, oro padavimo, ištaraukymo skydelių būseną"
+    },
+    {
+        "ToDoPK": 9,
+        "AreasFK": 4,
+        "Duty": "Patikrinti gaisro centralę ir gesinimo dujomis automatikos skydą"
+    },
+    {
+        "ToDoPK": 10,
+        "AreasFK": 4,
+        "Duty": "Patikrinti dažnių keitiklių DK-1 ir DK-2 būseną"
+    },
+    {
+        "ToDoPK": 11,
+        "AreasFK": 4,
+        "Duty": "Patikrinti siurblių slegių rodykles"
+    },
+    {
+        "ToDoPK": 12,
+        "AreasFK": 4,
+        "Duty": "Patikrinti balionų slėgį"
+    },
+    {
+        "ToDoPK": 13,
+        "AreasFK": 4,
+        "Duty": "Patikrinti UPS būseną"
+    },
+    {
+        "ToDoPK": 14,
+        "AreasFK": 4,
+        "Duty": "Apžiūrėti siurblinės patalpą"
+    },
+    {
+        "ToDoPK": 15,
+        "AreasFK": 5,
+        "Duty": "Apeiti perimetrą"
+    },
+    {
+        "ToDoPK": 16,
+        "AreasFK": 5,
+        "Duty": "Patikrinti gaisro centralę ir gesinimo dujomis automatikos skydą"
+    },
+    {
+        "ToDoPK": 17,
+        "AreasFK": 5,
+        "Duty": "Patikrinti balionų slėgį"
+    },
+    {
+        "ToDoPK": 18,
+        "AreasFK": 6,
+        "Duty": "Patikrinti UPS patalpą"
+    },
+    {
+        "ToDoPK": 19,
+        "AreasFK": 6,
+        "Duty": "Patikrinti UPS \"Over\" (1vnt) ir UPS \"Eaton\"(1vnt)"
+    },
+    {
+        "ToDoPK": 20,
+        "AreasFK": 6,
+        "Duty": "Patikrinti UPS \"Vertiv\" (2vnt)"
+    }
+]

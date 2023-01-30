@@ -1,0 +1,37 @@
+[
+    {
+        "RoutePK": 1,
+        "Route Number": 1,
+        "Floor": "n/a"
+    },
+    {
+        "RoutePK": 2,
+        "Route Number": 2,
+        "Floor": 1
+    },
+    {
+        "RoutePK": 3,
+        "Route Number": 3,
+        "Floor": 1
+    },
+    {
+        "RoutePK": 4,
+        "Route Number": 4,
+        "Floor": 1
+    },
+    {
+        "RoutePK": 5,
+        "Route Number": 5,
+        "Floor": 1
+    },
+    {
+        "RoutePK": 6,
+        "Route Number": 6,
+        "Floor": 2
+    },
+    {
+        "RoutePK": 7,
+        "Route Number": 7,
+        "Floor": "Lauke"
+    }
+]

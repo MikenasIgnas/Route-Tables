@@ -1,0 +1,116 @@
+[
+    {
+        "PossibleProblemPK": 1,
+        "ToDoFK": 1,
+        "Possible Problem": "Dega raudonos lemputės",
+        "Reaction": ""
+    },
+    {
+        "PossibleProblemPK": 2,
+        "ToDoFK": 1,
+        "Possible Problem": "Girdisi pašaliniai garsai",
+        "Reaction": ""
+    },
+    {
+        "PossibleProblemPK": 3,
+        "ToDoFK": 1,
+        "Possible Problem": "Ant žemės (pamatų) matosi antifrizas",
+        "Reaction": ""
+    },
+    {
+        "PossibleProblemPK": 4,
+        "ToDoFK": 1,
+        "Possible Problem": "Neužrankinti vartai",
+        "Reaction": ""
+    },
+    {
+        "PossibleProblemPK": 5,
+        "ToDoFK": 1,
+        "Possible Problem": "Yra šiukšlės, purvas, pašaliniai daiktai",
+        "Reaction": ""
+    },
+    {
+        "PossibleProblemPK": 6,
+        "ToDoFK": 2,
+        "Possible Problem": "Neveikia apšvietimas",
+        "Reaction": ""
+    },
+    {
+        "PossibleProblemPK": 7,
+        "ToDoFK": 2,
+        "Possible Problem": "Girdisi pašaliniai garsai",
+        "Reaction": ""
+    },
+    {
+        "PossibleProblemPK": 8,
+        "ToDoFK": 2,
+        "Possible Problem": "Jaučiasi svylimo kvapas",
+        "Reaction": ""
+    },
+    {
+        "PossibleProblemPK": 9,
+        "ToDoFK": 2,
+        "Possible Problem": "Yra vandens nuotekis",
+        "Reaction": ""
+    },
+    {
+        "PossibleProblemPK": 10,
+        "ToDoFK": 2,
+        "Possible Problem": "Yra šiukšlės, purvas, pašaliniai daiktai",
+        "Reaction": ""
+    },
+    {
+        "PossibleProblemPK": 11,
+        "ToDoFK": 3,
+        "Possible Problem": "Dega raudonos lemputės",
+        "Reaction": ""
+    },
+    {
+        "PossibleProblemPK": 12,
+        "ToDoFK": 4,
+        "Possible Problem": "Dega raudonos lemputės",
+        "Reaction": ""
+    },
+    {
+        "PossibleProblemPK": 13,
+        "ToDoFK": 5,
+        "Possible Problem": "Yra vandens nuotekis",
+        "Reaction": ""
+    },
+    {
+        "PossibleProblemPK": 14,
+        "ToDoFK": 5,
+        "Possible Problem": "Neveikia apšvietimas",
+        "Reaction": ""
+    },
+    {
+        "PossibleProblemPK": 15,
+        "ToDoFK": 5,
+        "Possible Problem": "Girdisi pašaliniai garsai",
+        "Reaction": ""
+    },
+    {
+        "PossibleProblemPK": 16,
+        "ToDoFK": 5,
+        "Possible Problem": "Yra šiukšlės, purvas, pašaliniai daiktai",
+        "Reaction": ""
+    },
+    {
+        "PossibleProblemPK": 17,
+        "ToDoFK": 5,
+        "Possible Problem": "Užsikimšęs/uždengtas vandens nubėgimo trapas",
+        "Reaction": ""
+    },
+    {
+        "PossibleProblemPK": 18,
+        "ToDoFK": 6,
+        "Possible Problem": "Dega bent dvi raudonos lemputės",
+        "Reaction": ""
+    },
+    {
+        "PossibleProblemPK": 19,
+        "ToDoFK": 6,
+        "Possible Problem": "Dega viena raudona lemputė",
+        "Reaction": ""
+    }
+]

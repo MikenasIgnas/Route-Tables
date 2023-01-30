@@ -1,0 +1,116 @@
+[
+    {
+        "AreasPK": 1,
+        "RouteFK": 1,
+        "Area Number": "n/a",
+        "Room Name": "n/a"
+    },
+    {
+        "AreasPK": 2,
+        "RouteFK": 2,
+        "Area Number": 29,
+        "Room Name": "B ir A ivadai"
+    },
+    {
+        "AreasPK": 3,
+        "RouteFK": 2,
+        "Area Number": 29,
+        "Room Name": "n/a"
+    },
+    {
+        "AreasPK": 4,
+        "RouteFK": 3,
+        "Area Number": "0,20",
+        "Room Name": "DR5 siurblinė"
+    },
+    {
+        "AreasPK": 5,
+        "RouteFK": 3,
+        "Area Number": "0,20",
+        "Room Name": "DR3 RA3  perimetras"
+    },
+    {
+        "AreasPK": 6,
+        "RouteFK": 3,
+        "Area Number": "0,20",
+        "Room Name": "DR13 UPS"
+    },
+    {
+        "AreasPK": 7,
+        "RouteFK": 4,
+        "Area Number": 0.2,
+        "Room Name": "DR RA3"
+    },
+    {
+        "AreasPK": 8,
+        "RouteFK": 4,
+        "Area Number": 0.2,
+        "Room Name": "DR8 DC-5"
+    },
+    {
+        "AreasPK": 9,
+        "RouteFK": 5,
+        "Area Number": "RA-2",
+        "Room Name": "030A"
+    },
+    {
+        "AreasPK": 10,
+        "RouteFK": 5,
+        "Area Number": "RA-2",
+        "Room Name": "CELES 2-9"
+    },
+    {
+        "AreasPK": 11,
+        "RouteFK": 5,
+        "Area Number": "OIB",
+        "Room Name": "OIB"
+    },
+    {
+        "AreasPK": 12,
+        "RouteFK": 6,
+        "Area Number": "DC1",
+        "Room Name": "DR4"
+    },
+    {
+        "AreasPK": 13,
+        "RouteFK": 6,
+        "Area Number": "DC1",
+        "Room Name": "DR2"
+    },
+    {
+        "AreasPK": 14,
+        "RouteFK": 6,
+        "Area Number": "DC2",
+        "Room Name": "Kondicionieriaus patalpa"
+    },
+    {
+        "AreasPK": 15,
+        "RouteFK": 6,
+        "Area Number": "DC2",
+        "Room Name": "DR14"
+    },
+    {
+        "AreasPK": 16,
+        "RouteFK": 6,
+        "Area Number": "DC2",
+        "Room Name": "DR10"
+    },
+    {
+        "AreasPK": 17,
+        "RouteFK": 6,
+        "Area Number": "DC3T",
+        "Room Name": "DR1"
+    },
+    {
+        "AreasPK": 18,
+        "RouteFK": 6,
+        "Area Number": "DC3C",
+        "Room Name": "DR4"
+    },
+    {
+        "AreasPK": 19,
+        "RouteFK": 7,
+        "Area Number": "n/a",
+        "Room Name": "n/a"
+    }
+]
