@@ -1,102 +1,464 @@
 [
     {
-        "todoId": 1,
-        "areaId": 1,
-        "duty": "Apžiūrėti šaldymo įrenginius (ŠM1, ŠM2, ŠM3)"
+        "id": 1,
+        "routesId": 1,
+        "areaNumber": "n/a",
+        "roomName": "n/a"
     },
     {
-        "todoId": 2,
-        "areaId": 2,
-        "duty": "Apžiūrėti patalpą"
+        "id": 2,
+        "routesId": 2,
+        "areaNumber": 29,
+        "roomName": "B ir A ivadai"
     },
     {
-        "todoId": 3,
-        "areaId": 2,
-        "duty": "patikrinti UPS būseną"
+        "id": 3,
+        "routesId": 2,
+        "areaNumber": 29,
+        "roomName": "n/a"
     },
     {
-        "todoId": 4,
-        "areaId": 2,
-        "duty": "Patikrinti kondicionieriaus ekranus"
+        "id": 4,
+        "routesId": 3,
+        "areaNumber": "0,20",
+        "roomName": "DR5 siurblinė"
     },
     {
-        "todoId": 5,
-        "areaId": 3,
-        "duty": "Apžiūrėti patalpą ir elektros įvadų namelių perimetrą"
+        "id": 5,
+        "routesId": 3,
+        "areaNumber": "0,20",
+        "roomName": "DR3 RA3  perimetras"
     },
     {
-        "todoId": 6,
-        "areaId": 3,
-        "duty": "Patikrinti RA2 mikroklimato palaikymo sistemos skydelį"
+        "id": 6,
+        "routesId": 3,
+        "areaNumber": "0,20",
+        "roomName": "DR13 UPS"
     },
     {
-        "todoId": 7,
-        "areaId": 4,
-        "duty": "Patikrinti šalčio mašinų skydą"
+        "id": 7,
+        "routesId": 3,
+        "areaNumber": 0.2,
+        "roomName": "DR14 Skydinė"
     },
     {
-        "todoId": 8,
-        "areaId": 4,
-        "duty": "Patikrinti dūmų šalinimo, oro padavimo, ištaraukymo skydelių būseną"
+        "id": 8,
+        "routesId": 3,
+        "areaNumber": "0,20",
+        "roomName": "DR10 RA-3 kond."
     },
     {
-        "todoId": 9,
-        "areaId": 4,
-        "duty": "Patikrinti gaisro centralę ir gesinimo dujomis automatikos skydą"
+        "id": 9,
+        "routesId": 3,
+        "areaNumber": "0,20",
+        "roomName": "DR16 DC-4 DC-5 perimetras"
     },
     {
-        "todoId": 10,
-        "areaId": 4,
-        "duty": "Patikrinti dažnių keitiklių DK-1 ir DK-2 būseną"
+        "id": 10,
+        "routesId": 4,
+        "areaNumber": 0.2,
+        "roomName": "DR5 RA3"
     },
     {
-        "todoId": 11,
-        "areaId": 4,
-        "duty": "Patikrinti siurblių slegių rodykles"
+        "id": 11,
+        "routesId": 4,
+        "areaNumber": 0.2,
+        "roomName": "DR8 DC-5"
     },
     {
-        "todoId": 12,
-        "areaId": 4,
-        "duty": "Patikrinti balionų slėgį"
+        "id": 12,
+        "routesId": 5,
+        "areaNumber": "RA-2",
+        "roomName": "030A"
     },
     {
-        "todoId": 13,
-        "areaId": 4,
-        "duty": "Patikrinti UPS būseną"
+        "id": 13,
+        "routesId": 5,
+        "areaNumber": "RA-2",
+        "roomName": "CELES 2-9"
     },
     {
-        "todoId": 14,
-        "areaId": 4,
-        "duty": "Apžiūrėti siurblinės patalpą"
+        "id": 14,
+        "routesId": 5,
+        "areaNumber": "OIB",
+        "roomName": "OIB"
     },
     {
-        "todoId": 15,
-        "areaId": 5,
-        "duty": "Apeiti perimetrą"
+        "id": "id",
+        "routesId": "areasId",
+        "areaNumber": "duty",
+        "roomName": ""
     },
     {
-        "todoId": 16,
-        "areaId": 5,
-        "duty": "Patikrinti gaisro centralę ir gesinimo dujomis automatikos skydą"
+        "id": 1,
+        "routesId": 1,
+        "areaNumber": "Apžiūrėti šaldymo įrenginius (ŠM1, ŠM2, ŠM3)",
+        "roomName": ""
     },
     {
-        "todoId": 17,
-        "areaId": 5,
-        "duty": "Patikrinti balionų slėgį"
+        "id": 2,
+        "routesId": 2,
+        "areaNumber": "Apžiūrėti patalpą",
+        "roomName": ""
     },
     {
-        "todoId": 18,
-        "areaId": 6,
-        "duty": "Patikrinti UPS patalpą"
+        "id": 3,
+        "routesId": 2,
+        "areaNumber": "patikrinti UPS būseną",
+        "roomName": ""
     },
     {
-        "todoId": 19,
-        "areaId": 6,
-        "duty": "Patikrinti UPS \"Over\" (1vnt) ir UPS \"Eaton\"(1vnt)"
+        "id": 4,
+        "routesId": 2,
+        "areaNumber": "Patikrinti kondicionieriaus ekranus",
+        "roomName": ""
     },
     {
-        "todoId": 20,
-        "areaId": 6,
-        "duty": "Patikrinti UPS \"Vertiv\" (2vnt)"
+        "id": 5,
+        "routesId": 3,
+        "areaNumber": "Apžiūrėti patalpą ir elektros įvadų namelių perimetrą",
+        "roomName": ""
+    },
+    {
+        "id": 6,
+        "routesId": 3,
+        "areaNumber": "Patikrinti RA2 mikroklimato palaikymo sistemos skydelį",
+        "roomName": ""
+    },
+    {
+        "id": 7,
+        "routesId": 4,
+        "areaNumber": "Patikrinti šalčio mašinų skydą",
+        "roomName": ""
+    },
+    {
+        "id": 8,
+        "routesId": 4,
+        "areaNumber": "Patikrinti dūmų šalinimo, oro padavimo, ištaraukymo skydelių būseną",
+        "roomName": ""
+    },
+    {
+        "id": 9,
+        "routesId": 4,
+        "areaNumber": "Patikrinti gaisro centralę ir gesinimo dujomis automatikos skydą",
+        "roomName": ""
+    },
+    {
+        "id": 10,
+        "routesId": 4,
+        "areaNumber": "Patikrinti dažnių keitiklių DK-1 ir DK-2 būseną",
+        "roomName": ""
+    },
+    {
+        "id": 11,
+        "routesId": 4,
+        "areaNumber": "Patikrinti siurblių slegių rodykles",
+        "roomName": ""
+    },
+    {
+        "id": 12,
+        "routesId": 4,
+        "areaNumber": "Patikrinti balionų slėgį",
+        "roomName": ""
+    },
+    {
+        "id": 13,
+        "routesId": 4,
+        "areaNumber": "Patikrinti UPS būseną",
+        "roomName": ""
+    },
+    {
+        "id": 14,
+        "routesId": 4,
+        "areaNumber": "Apžiūrėti siurblinės patalpą",
+        "roomName": ""
+    },
+    {
+        "id": 15,
+        "routesId": 5,
+        "areaNumber": "Apeiti perimetrą",
+        "roomName": ""
+    },
+    {
+        "id": 16,
+        "routesId": 5,
+        "areaNumber": "Patikrinti gaisro centralę ir gesinimo dujomis automatikos skydą",
+        "roomName": ""
+    },
+    {
+        "id": 17,
+        "routesId": 5,
+        "areaNumber": "Patikrinti balionų slėgį",
+        "roomName": ""
+    },
+    {
+        "id": 18,
+        "routesId": 6,
+        "areaNumber": "Patikrinti UPS patalpą",
+        "roomName": ""
+    },
+    {
+        "id": 19,
+        "routesId": 6,
+        "areaNumber": "Patikrinti UPS \"Over\" (1vnt) ir UPS \"Eaton\"(1vnt)",
+        "roomName": ""
+    },
+    {
+        "id": 20,
+        "routesId": 6,
+        "areaNumber": "Patikrinti UPS \"Vertiv\" (2vnt)",
+        "roomName": ""
+    },
+    {
+        "id": 21,
+        "routesId": 6,
+        "areaNumber": "Patikrinti UPS \"Socomec\" 4vnt",
+        "roomName": ""
+    },
+    {
+        "id": 22,
+        "routesId": 6,
+        "areaNumber": "Patikrinti Emerson kondicionieriaus valdymo skydeli",
+        "roomName": ""
+    },
+    {
+        "id": 23,
+        "routesId": 6,
+        "areaNumber": "Apžiūrėti vizualiai, buitinius kondicionierius",
+        "roomName": ""
+    },
+    {
+        "id": 24,
+        "routesId": 6,
+        "areaNumber": "Patikrinti fazių skydus",
+        "roomName": ""
+    },
+    {
+        "id": 25,
+        "routesId": 6,
+        "areaNumber": "Apžiūrėti patalpą",
+        "roomName": ""
+    },
+    {
+        "id": 26,
+        "routesId": 7,
+        "areaNumber": "Patikrinti įvado skydą",
+        "roomName": ""
+    },
+    {
+        "id": 27,
+        "routesId": 7,
+        "areaNumber": "Apžiūrėti patalpą",
+        "roomName": ""
+    },
+    {
+        "id": 28,
+        "routesId": 8,
+        "areaNumber": "Apžiūrėti patalą",
+        "roomName": ""
+    },
+    {
+        "id": 29,
+        "routesId": 8,
+        "areaNumber": "Patikrinti kondicionieriaus patalpą",
+        "roomName": ""
+    },
+    {
+        "id": 30,
+        "routesId": 9,
+        "areaNumber": "Apeiti DC4, DC5 perimetrą",
+        "roomName": ""
+    },
+    {
+        "id": 31,
+        "routesId": 10,
+        "areaNumber": "Patikrinti RA3 celes ir duris",
+        "roomName": ""
+    },
+    {
+        "id": 32,
+        "routesId": 10,
+        "areaNumber": "Apžiūrėti RA3 patalpą",
+        "roomName": ""
+    },
+    {
+        "id": 33,
+        "routesId": 11,
+        "areaNumber": "Apžiūrėti DC5 patalpą",
+        "roomName": ""
+    },
+    {
+        "id": 34,
+        "routesId": 12,
+        "areaNumber": "Apžiūrėti ventkameros patalpą",
+        "roomName": ""
+    },
+    {
+        "id": 35,
+        "routesId": 13,
+        "areaNumber": "Apeiti RA2 perimetrą ir visas celes išskyrus 1",
+        "roomName": ""
+    },
+    {
+        "id": 36,
+        "routesId": 13,
+        "areaNumber": "Patikrinti kameras",
+        "roomName": ""
+    },
+    {
+        "id": 37,
+        "routesId": 13,
+        "areaNumber": "Patikrinti RA2 termostato valdiklius",
+        "roomName": ""
+    },
+    {
+        "id": 38,
+        "routesId": 14,
+        "areaNumber": "Apžiūrėti patalpą",
+        "roomName": ""
+    },
+    {
+        "id": 39,
+        "routesId": 15,
+        "areaNumber": "Apžiūrėti  kondicionieriaus patalpą",
+        "roomName": ""
+    },
+    {
+        "id": 40,
+        "routesId": 15,
+        "areaNumber": "Patikrinti kondicionierių ekranus",
+        "roomName": ""
+    },
+    {
+        "id": 41,
+        "routesId": 16,
+        "areaNumber": "Apžiūrėti DC1 perimetrą",
+        "roomName": ""
+    },
+    {
+        "id": 42,
+        "routesId": 16,
+        "areaNumber": "Patikrinti gaisro centralę ir gesinimo dujomis automatikos skydą",
+        "roomName": ""
+    },
+    {
+        "id": 43,
+        "routesId": 16,
+        "areaNumber": "Patikrinti balionų slėgį",
+        "roomName": ""
+    },
+    {
+        "id": 44,
+        "routesId": 17,
+        "areaNumber": "Patikrinti kondicionieriaus ekranus",
+        "roomName": ""
+    },
+    {
+        "id": 45,
+        "routesId": 17,
+        "areaNumber": "Patikrinti vožtuvų skydo būseną",
+        "roomName": ""
+    },
+    {
+        "id": 46,
+        "routesId": 17,
+        "areaNumber": "Patikrinti automatikos skydą",
+        "roomName": ""
+    },
+    {
+        "id": 47,
+        "routesId": 17,
+        "areaNumber": "Apžiūrėti patalpą",
+        "roomName": ""
+    },
+    {
+        "id": 48,
+        "routesId": 18,
+        "areaNumber": "Apžiūrėti patalpą",
+        "roomName": ""
+    },
+    {
+        "id": 49,
+        "routesId": 19,
+        "areaNumber": "Apžiūrėti DC-2 perimetrą",
+        "roomName": ""
+    },
+    {
+        "id": 50,
+        "routesId": 19,
+        "areaNumber": "Patikrinti gaisro centralę ir gesinimo dujomis automatikos skydą",
+        "roomName": ""
+    },
+    {
+        "id": 51,
+        "routesId": 19,
+        "areaNumber": "Patikrinti balionų slėgį",
+        "roomName": ""
+    },
+    {
+        "id": 52,
+        "routesId": 19,
+        "areaNumber": "Patikrinti UPS būseną",
+        "roomName": ""
+    },
+    {
+        "id": 53,
+        "routesId": 20,
+        "areaNumber": "Patikrinti gaisro signalizacijos centralę",
+        "roomName": ""
+    },
+    {
+        "id": 54,
+        "routesId": 20,
+        "areaNumber": "Apžiūrėti DC3T patalpos tambūrą",
+        "roomName": ""
+    },
+    {
+        "id": 55,
+        "routesId": 21,
+        "areaNumber": "Patikrinti gaisro centralę ir gesinimo dujomis automatikos skydą",
+        "roomName": ""
+    },
+    {
+        "id": 56,
+        "routesId": 21,
+        "areaNumber": "Patikrinti automatikos skydą",
+        "roomName": ""
+    },
+    {
+        "id": 57,
+        "routesId": 21,
+        "areaNumber": "Patikrinti kondicioneriaus ekraną",
+        "roomName": ""
+    },
+    {
+        "id": 58,
+        "routesId": 21,
+        "areaNumber": "Patikrinti UPS būseną",
+        "roomName": ""
+    },
+    {
+        "id": 59,
+        "routesId": 21,
+        "areaNumber": "Patikrinti balionų slėgį",
+        "roomName": ""
+    },
+    {
+        "id": 60,
+        "routesId": 21,
+        "areaNumber": "Apžiūrėti DC3C tambūrą",
+        "roomName": ""
+    },
+    {
+        "id": 61,
+        "routesId": 22,
+        "areaNumber": "Apžiūrėti DES-2 dyzelgeneratoriaus patalpą",
+        "roomName": ""
+    },
+    {
+        "id": 62,
+        "routesId": 22,
+        "areaNumber": "Apžiūrėti DES-1 dyzelgeneratoriaus patalpą",
+        "roomName": ""
     }
 ]

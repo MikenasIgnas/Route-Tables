@@ -1,36 +1,36 @@
 [
     {
-        "routeId": 1,
+        "id": 1,
         "routeNumber": 1,
         "floor": "n/a"
     },
     {
-        "routeId": 2,
+        "id": 2,
         "routeNumber": 2,
         "floor": 1
     },
     {
-        "routeId": 3,
+        "id": 3,
         "routeNumber": 3,
         "floor": 1
     },
     {
-        "routeId": 4,
+        "id": 4,
         "routeNumber": 4,
         "floor": 1
     },
     {
-        "routeId": 5,
+        "id": 5,
         "routeNumber": 5,
         "floor": 1
     },
     {
-        "routeId": 6,
+        "id": 6,
         "routeNumber": 6,
         "floor": 2
     },
     {
-        "routeId": 7,
+        "id": 7,
         "routeNumber": 7,
         "floor": "Lauke"
     }

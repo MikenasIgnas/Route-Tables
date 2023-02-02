@@ -1,116 +1,932 @@
 [
     {
-        "possibleProblemId": 1,
+        "id": 1,
         "todoId": 1,
         "possibleProblem": "Dega raudonos lemputės",
         "reaction": ""
     },
     {
-        "possibleProblemId": 2,
+        "id": 2,
         "todoId": 1,
         "possibleProblem": "Girdisi pašaliniai garsai",
         "reaction": ""
     },
     {
-        "possibleProblemId": 3,
+        "id": 3,
         "todoId": 1,
         "possibleProblem": "Ant žemės (pamatų) matosi antifrizas",
         "reaction": ""
     },
     {
-        "possibleProblemId": 4,
+        "id": 4,
         "todoId": 1,
         "possibleProblem": "Neužrankinti vartai",
         "reaction": ""
     },
     {
-        "possibleProblemId": 5,
+        "id": 5,
         "todoId": 1,
         "possibleProblem": "Yra šiukšlės, purvas, pašaliniai daiktai",
         "reaction": ""
     },
     {
-        "possibleProblemId": 6,
+        "id": 6,
         "todoId": 2,
         "possibleProblem": "Neveikia apšvietimas",
         "reaction": ""
     },
     {
-        "possibleProblemId": 7,
+        "id": 7,
         "todoId": 2,
         "possibleProblem": "Girdisi pašaliniai garsai",
         "reaction": ""
     },
     {
-        "possibleProblemId": 8,
+        "id": 8,
         "todoId": 2,
         "possibleProblem": "Jaučiasi svylimo kvapas",
         "reaction": ""
     },
     {
-        "possibleProblemId": 9,
+        "id": 9,
         "todoId": 2,
         "possibleProblem": "Yra vandens nuotekis",
         "reaction": ""
     },
     {
-        "possibleProblemId": 10,
+        "id": 10,
         "todoId": 2,
         "possibleProblem": "Yra šiukšlės, purvas, pašaliniai daiktai",
         "reaction": ""
     },
     {
-        "possibleProblemId": 11,
+        "id": 11,
         "todoId": 3,
         "possibleProblem": "Dega raudonos lemputės",
         "reaction": ""
     },
     {
-        "possibleProblemId": 12,
+        "id": 12,
         "todoId": 4,
         "possibleProblem": "Dega raudonos lemputės",
         "reaction": ""
     },
     {
-        "possibleProblemId": 13,
+        "id": 13,
         "todoId": 5,
         "possibleProblem": "Yra vandens nuotekis",
         "reaction": ""
     },
     {
-        "possibleProblemId": 14,
+        "id": 14,
         "todoId": 5,
         "possibleProblem": "Neveikia apšvietimas",
         "reaction": ""
     },
     {
-        "possibleProblemId": 15,
+        "id": 15,
         "todoId": 5,
         "possibleProblem": "Girdisi pašaliniai garsai",
         "reaction": ""
     },
     {
-        "possibleProblemId": 16,
+        "id": 16,
         "todoId": 5,
         "possibleProblem": "Yra šiukšlės, purvas, pašaliniai daiktai",
         "reaction": ""
     },
     {
-        "possibleProblemId": 17,
+        "id": 17,
         "todoId": 5,
         "possibleProblem": "Užsikimšęs/uždengtas vandens nubėgimo trapas",
         "reaction": ""
     },
     {
-        "possibleProblemId": 18,
+        "id": 18,
         "todoId": 6,
         "possibleProblem": "Dega bent dvi raudonos lemputės",
         "reaction": ""
     },
     {
-        "possibleProblemId": 19,
+        "id": 19,
         "todoId": 6,
         "possibleProblem": "Dega viena raudona lemputė",
+        "reaction": ""
+    },
+    {
+        "id": 20,
+        "todoId": 7,
+        "possibleProblem": "Dega raudonos lemputės",
+        "reaction": ""
+    },
+    {
+        "id": 21,
+        "todoId": 8,
+        "possibleProblem": "Neatitinka normalios būsenos nuotraukos",
+        "reaction": ""
+    },
+    {
+        "id": 22,
+        "todoId": 9,
+        "possibleProblem": "Dega lemputė prie užrašo \"gaisras\"",
+        "reaction": ""
+    },
+    {
+        "id": 23,
+        "todoId": 9,
+        "possibleProblem": "Dega lemputė prie užrašo \"gedimas\"",
+        "reaction": ""
+    },
+    {
+        "id": 24,
+        "todoId": 10,
+        "possibleProblem": "Dega raudonos lemputės",
+        "reaction": ""
+    },
+    {
+        "id": 25,
+        "todoId": 11,
+        "possibleProblem": "Slėgis mažesnis nei 2,5",
+        "reaction": ""
+    },
+    {
+        "id": 26,
+        "todoId": 12,
+        "possibleProblem": "Slėgis mažesnis nei žalioje zonoje",
+        "reaction": ""
+    },
+    {
+        "id": 27,
+        "todoId": 13,
+        "possibleProblem": "Neatitinka normalios būsenos nuotraukos",
+        "reaction": ""
+    },
+    {
+        "id": 28,
+        "todoId": 14,
+        "possibleProblem": "Yra vandens nuotekis",
+        "reaction": ""
+    },
+    {
+        "id": 29,
+        "todoId": 14,
+        "possibleProblem": "Neveikia apšvietimas",
+        "reaction": ""
+    },
+    {
+        "id": 30,
+        "todoId": 14,
+        "possibleProblem": "Girdisi pašaliniai garsai",
+        "reaction": ""
+    },
+    {
+        "id": 31,
+        "todoId": 14,
+        "possibleProblem": "Yra šiukšlės, purvas, pašaliniai daiktai",
+        "reaction": ""
+    },
+    {
+        "id": 32,
+        "todoId": 15,
+        "possibleProblem": "Yra vandens nuotekis",
+        "reaction": ""
+    },
+    {
+        "id": 33,
+        "todoId": 15,
+        "possibleProblem": "Neveikia apšvietimas",
+        "reaction": ""
+    },
+    {
+        "id": 34,
+        "todoId": 15,
+        "possibleProblem": "Girdisi pašaliniai garsai",
+        "reaction": ""
+    },
+    {
+        "id": 35,
+        "todoId": 15,
+        "possibleProblem": "Yra šiukšlės, purvas, pašaliniai daiktai",
+        "reaction": ""
+    },
+    {
+        "id": 36,
+        "todoId": 16,
+        "possibleProblem": "Neatitinka normalios būsenos nuotraukos",
+        "reaction": ""
+    },
+    {
+        "id": 37,
+        "todoId": 17,
+        "possibleProblem": "Mažiau nei 20 ar nesutampa balionų rodmenys",
+        "reaction": ""
+    },
+    {
+        "id": 38,
+        "todoId": 18,
+        "possibleProblem": "Svylimo kvapas",
+        "reaction": ""
+    },
+    {
+        "id": 39,
+        "todoId": 19,
+        "possibleProblem": "Dega raudona lemputė",
+        "reaction": ""
+    },
+    {
+        "id": 40,
+        "todoId": 20,
+        "possibleProblem": "Dega raudona lemputė",
+        "reaction": ""
+    },
+    {
+        "id": 41,
+        "todoId": 21,
+        "possibleProblem": "Dega raudona lemputė",
+        "reaction": ""
+    },
+    {
+        "id": 42,
+        "todoId": 22,
+        "possibleProblem": "Dega raudonos lemputės",
+        "reaction": ""
+    },
+    {
+        "id": 43,
+        "todoId": 23,
+        "possibleProblem": "Nepučia šalto oro",
+        "reaction": ""
+    },
+    {
+        "id": 44,
+        "todoId": 24,
+        "possibleProblem": "Neatitinka normalios būsenos nuotraukos",
+        "reaction": ""
+    },
+    {
+        "id": 45,
+        "todoId": 25,
+        "possibleProblem": "Yra vandens nuotekis",
+        "reaction": ""
+    },
+    {
+        "id": 46,
+        "todoId": 25,
+        "possibleProblem": "Neveikia apšvietimas",
+        "reaction": ""
+    },
+    {
+        "id": 47,
+        "todoId": 25,
+        "possibleProblem": "Girdisi pašaliniai garsai",
+        "reaction": ""
+    },
+    {
+        "id": 48,
+        "todoId": 25,
+        "possibleProblem": "Yra šiukšlės, purvas, pašaliniai daiktai",
+        "reaction": ""
+    },
+    {
+        "id": 49,
+        "todoId": 26,
+        "possibleProblem": "Neatitinka normalios būsenos nuotraukos",
+        "reaction": ""
+    },
+    {
+        "id": 50,
+        "todoId": 27,
+        "possibleProblem": "Yra vandens nuotekis",
+        "reaction": ""
+    },
+    {
+        "id": 51,
+        "todoId": 27,
+        "possibleProblem": "Neveikia apšvietimas",
+        "reaction": ""
+    },
+    {
+        "id": 52,
+        "todoId": 27,
+        "possibleProblem": "Girdisi pašaliniai garsai",
+        "reaction": ""
+    },
+    {
+        "id": 53,
+        "todoId": 27,
+        "possibleProblem": "Yra šiukšlės, purvas, pašaliniai daiktai",
+        "reaction": ""
+    },
+    {
+        "id": 54,
+        "todoId": 28,
+        "possibleProblem": "Yra vandens nuotekis",
+        "reaction": ""
+    },
+    {
+        "id": 55,
+        "todoId": 28,
+        "possibleProblem": "Neveikia apšvietimas",
+        "reaction": ""
+    },
+    {
+        "id": 56,
+        "todoId": 28,
+        "possibleProblem": "Girdisi pašaliniai garsai",
+        "reaction": ""
+    },
+    {
+        "id": 57,
+        "todoId": 28,
+        "possibleProblem": "Yra šiukšlės, purvas, pašaliniai daiktai",
+        "reaction": ""
+    },
+    {
+        "id": 58,
+        "todoId": 29,
+        "possibleProblem": "Mirksi aliarmo mygtukas",
+        "reaction": ""
+    },
+    {
+        "id": 59,
+        "todoId": 30,
+        "possibleProblem": "Yra vandens nuotekis",
+        "reaction": ""
+    },
+    {
+        "id": 60,
+        "todoId": 30,
+        "possibleProblem": "Neveikia apšvietimas",
+        "reaction": ""
+    },
+    {
+        "id": 61,
+        "todoId": 30,
+        "possibleProblem": "Girdisi pašaliniai garsai",
+        "reaction": ""
+    },
+    {
+        "id": 62,
+        "todoId": 30,
+        "possibleProblem": "Yra šiukšlės, purvas, pašaliniai daiktai",
+        "reaction": ""
+    },
+    {
+        "id": 63,
+        "todoId": 31,
+        "possibleProblem": "Atidaryto šaltų zonų durys",
+        "reaction": ""
+    },
+    {
+        "id": 64,
+        "todoId": 31,
+        "possibleProblem": "Neužrakintos spintų ir celių durys",
+        "reaction": ""
+    },
+    {
+        "id": 65,
+        "todoId": 32,
+        "possibleProblem": "Yra vandens nuotekis",
+        "reaction": ""
+    },
+    {
+        "id": 66,
+        "todoId": 32,
+        "possibleProblem": "Neveikia apšvietimas",
+        "reaction": ""
+    },
+    {
+        "id": 67,
+        "todoId": 32,
+        "possibleProblem": "Girdisi pašaliniai garsai",
+        "reaction": ""
+    },
+    {
+        "id": 68,
+        "todoId": 32,
+        "possibleProblem": "Yra šiukšlės, purvas, pašaliniai daiktai",
+        "reaction": ""
+    },
+    {
+        "id": 69,
+        "todoId": 33,
+        "possibleProblem": "Neveikia apšvietimas",
+        "reaction": ""
+    },
+    {
+        "id": 70,
+        "todoId": 33,
+        "possibleProblem": "Yra vandens nuotekis",
+        "reaction": ""
+    },
+    {
+        "id": 71,
+        "todoId": 33,
+        "possibleProblem": "Yra šiukšlės, purvas, pašaliniai daiktai",
+        "reaction": ""
+    },
+    {
+        "id": 72,
+        "todoId": 33,
+        "possibleProblem": "Nelimpa kilimėlis",
+        "reaction": ""
+    },
+    {
+        "id": 73,
+        "todoId": 33,
+        "possibleProblem": "Girdisi pašaliniai garsai",
+        "reaction": ""
+    },
+    {
+        "id": 74,
+        "todoId": 33,
+        "possibleProblem": "Atidaryto šaltų zonų durys",
+        "reaction": ""
+    },
+    {
+        "id": 75,
+        "todoId": 33,
+        "possibleProblem": "Neužrakintos spintū durys",
+        "reaction": ""
+    },
+    {
+        "id": 76,
+        "todoId": 34,
+        "possibleProblem": "Dega raudona lemputė",
+        "reaction": ""
+    },
+    {
+        "id": 77,
+        "todoId": 34,
+        "possibleProblem": "Yra vandens nuotekis",
+        "reaction": ""
+    },
+    {
+        "id": 78,
+        "todoId": 34,
+        "possibleProblem": "Neveikia apšvietimas",
+        "reaction": ""
+    },
+    {
+        "id": 79,
+        "todoId": 34,
+        "possibleProblem": "Girdisi pašaliniai garsai",
+        "reaction": ""
+    },
+    {
+        "id": 80,
+        "todoId": 34,
+        "possibleProblem": "Yra šiukšlės, purvas, pašaliniai daiktai",
+        "reaction": ""
+    },
+    {
+        "id": 81,
+        "todoId": 35,
+        "possibleProblem": "Atidarytos spintų ir celių durys",
+        "reaction": ""
+    },
+    {
+        "id": 82,
+        "todoId": 35,
+        "possibleProblem": "Yra vandens nuotekis",
+        "reaction": ""
+    },
+    {
+        "id": 83,
+        "todoId": 35,
+        "possibleProblem": "Neveikia apšvietimas",
+        "reaction": ""
+    },
+    {
+        "id": 84,
+        "todoId": 35,
+        "possibleProblem": "Girdisi pašaliniai garsai",
+        "reaction": ""
+    },
+    {
+        "id": 85,
+        "todoId": 35,
+        "possibleProblem": "Yra šiukšlės, purvas, pašaliniai daiktai",
+        "reaction": ""
+    },
+    {
+        "id": 86,
+        "todoId": 36,
+        "possibleProblem": "Nusuktos kameros",
+        "reaction": ""
+    },
+    {
+        "id": 87,
+        "todoId": 37,
+        "possibleProblem": "Neveikia vienas ekranas",
+        "reaction": ""
+    },
+    {
+        "id": 88,
+        "todoId": 37,
+        "possibleProblem": "Neveikia daugiau nei vienas ekranas",
+        "reaction": ""
+    },
+    {
+        "id": 89,
+        "todoId": 38,
+        "possibleProblem": "Yra vandens nuotekis",
+        "reaction": ""
+    },
+    {
+        "id": 90,
+        "todoId": 38,
+        "possibleProblem": "Neveikia apšvietimas",
+        "reaction": ""
+    },
+    {
+        "id": 91,
+        "todoId": 38,
+        "possibleProblem": "Girdisi pašaliniai garsai",
+        "reaction": ""
+    },
+    {
+        "id": 92,
+        "todoId": 38,
+        "possibleProblem": "Yra šiukšlės, purvas, pašaliniai daiktai",
+        "reaction": ""
+    },
+    {
+        "id": 93,
+        "todoId": 38,
+        "possibleProblem": "Atrakintos spintų durys",
+        "reaction": ""
+    },
+    {
+        "id": 94,
+        "todoId": 39,
+        "possibleProblem": "Yra vandens nuotekis",
+        "reaction": ""
+    },
+    {
+        "id": 95,
+        "todoId": 39,
+        "possibleProblem": "Neveikia apšvietimas",
+        "reaction": ""
+    },
+    {
+        "id": 96,
+        "todoId": 39,
+        "possibleProblem": "Girdisi pašaliniai garsai",
+        "reaction": ""
+    },
+    {
+        "id": 97,
+        "todoId": 39,
+        "possibleProblem": "Yra šiukšlės, purvas, pašaliniai daiktai",
+        "reaction": ""
+    },
+    {
+        "id": 98,
+        "todoId": 40,
+        "possibleProblem": "Yra aliarmai",
+        "reaction": ""
+    },
+    {
+        "id": 99,
+        "todoId": 41,
+        "possibleProblem": "Neveikia apšvietimas",
+        "reaction": ""
+    },
+    {
+        "id": 100,
+        "todoId": 41,
+        "possibleProblem": "Girdisi pašaliniai garsai",
+        "reaction": ""
+    },
+    {
+        "id": 101,
+        "todoId": 41,
+        "possibleProblem": "Yra šiukšlės, purvas, pašaliniai daiktai",
+        "reaction": ""
+    },
+    {
+        "id": 102,
+        "todoId": 42,
+        "possibleProblem": "Neatitinka normalios būsenos nuotraukos",
+        "reaction": ""
+    },
+    {
+        "id": 103,
+        "todoId": 43,
+        "possibleProblem": "Slegis žemesnis nei žalioje zonoje",
+        "reaction": ""
+    },
+    {
+        "id": 104,
+        "todoId": 44,
+        "possibleProblem": "Yra aliarmai",
+        "reaction": ""
+    },
+    {
+        "id": 105,
+        "todoId": 45,
+        "possibleProblem": "Neatitinka normalios būsenos nuotraukos",
+        "reaction": ""
+    },
+    {
+        "id": 106,
+        "todoId": 46,
+        "possibleProblem": "Neatitinka normalios būsenos nuotraukos",
+        "reaction": ""
+    },
+    {
+        "id": 107,
+        "todoId": 47,
+        "possibleProblem": "Yra vandens nuotekis",
+        "reaction": ""
+    },
+    {
+        "id": 108,
+        "todoId": 47,
+        "possibleProblem": "Neveikia apšvietimas",
+        "reaction": ""
+    },
+    {
+        "id": 109,
+        "todoId": 47,
+        "possibleProblem": "Girdisi pašaliniai garsai",
+        "reaction": ""
+    },
+    {
+        "id": 110,
+        "todoId": 47,
+        "possibleProblem": "Yra šiukšlės, purvas, pašaliniai daiktai",
+        "reaction": ""
+    },
+    {
+        "id": 111,
+        "todoId": 48,
+        "possibleProblem": "Yra vandens nuotekis",
+        "reaction": ""
+    },
+    {
+        "id": 112,
+        "todoId": 48,
+        "possibleProblem": "Neveikia apšvietimas",
+        "reaction": ""
+    },
+    {
+        "id": 113,
+        "todoId": 48,
+        "possibleProblem": "Girdisi pašaliniai garsai",
+        "reaction": ""
+    },
+    {
+        "id": 114,
+        "todoId": 48,
+        "possibleProblem": "Yra šiukšlės, purvas, pašaliniai daiktai",
+        "reaction": ""
+    },
+    {
+        "id": 115,
+        "todoId": 48,
+        "possibleProblem": "Nelimpa kilimėlis",
+        "reaction": ""
+    },
+    {
+        "id": 116,
+        "todoId": 48,
+        "possibleProblem": "Atidarytos šaltų zonų durys",
+        "reaction": ""
+    },
+    {
+        "id": 117,
+        "todoId": 48,
+        "possibleProblem": "Neužrakintos spintų durys",
+        "reaction": ""
+    },
+    {
+        "id": 118,
+        "todoId": 49,
+        "possibleProblem": "Yra vandens nuotekis",
+        "reaction": ""
+    },
+    {
+        "id": 119,
+        "todoId": 49,
+        "possibleProblem": "Neveikia apšvietimas",
+        "reaction": ""
+    },
+    {
+        "id": 120,
+        "todoId": 49,
+        "possibleProblem": "Girdisi pašaliniai garsai",
+        "reaction": ""
+    },
+    {
+        "id": 121,
+        "todoId": 49,
+        "possibleProblem": "Yra šiukšlės, purvas, pašaliniai daiktai",
+        "reaction": ""
+    },
+    {
+        "id": 122,
+        "todoId": 50,
+        "possibleProblem": "Neatitinka normalios būsenos nuotraukos",
+        "reaction": ""
+    },
+    {
+        "id": 123,
+        "todoId": 51,
+        "possibleProblem": "Slegis žemesnis nei žalioje zonoje",
+        "reaction": ""
+    },
+    {
+        "id": 124,
+        "todoId": 52,
+        "possibleProblem": "Neatitinka normalios būsenos nuotraukos",
+        "reaction": ""
+    },
+    {
+        "id": 125,
+        "todoId": 53,
+        "possibleProblem": "Dega raudonos lemputės (gedimas)",
+        "reaction": ""
+    },
+    {
+        "id": 126,
+        "todoId": 53,
+        "possibleProblem": "Dega raudonos lemputės (gaisras)",
+        "reaction": ""
+    },
+    {
+        "id": 127,
+        "todoId": 54,
+        "possibleProblem": "Yra vandens nuotekis",
+        "reaction": ""
+    },
+    {
+        "id": 128,
+        "todoId": 54,
+        "possibleProblem": "Neveikia apšvietimas",
+        "reaction": ""
+    },
+    {
+        "id": 129,
+        "todoId": 54,
+        "possibleProblem": "Girdisi pašaliniai garsai",
+        "reaction": ""
+    },
+    {
+        "id": 130,
+        "todoId": 54,
+        "possibleProblem": "Yra šiukšlės, purvas, pašaliniai daiktai",
+        "reaction": ""
+    },
+    {
+        "id": 131,
+        "todoId": 54,
+        "possibleProblem": "Nelimpa kilimėlis",
+        "reaction": ""
+    },
+    {
+        "id": 132,
+        "todoId": 55,
+        "possibleProblem": "Dega raudona lemputė (gedimas)",
+        "reaction": ""
+    },
+    {
+        "id": 133,
+        "todoId": 55,
+        "possibleProblem": "Dega raudona lemputė (gaisras)",
+        "reaction": ""
+    },
+    {
+        "id": 134,
+        "todoId": 56,
+        "possibleProblem": "Neatitinka normalios būsenos nuotraukos",
+        "reaction": ""
+    },
+    {
+        "id": 135,
+        "todoId": 57,
+        "possibleProblem": "Dega raudona lemputė",
+        "reaction": ""
+    },
+    {
+        "id": 136,
+        "todoId": 58,
+        "possibleProblem": "Dega raudona lemputė",
+        "reaction": ""
+    },
+    {
+        "id": 137,
+        "todoId": 59,
+        "possibleProblem": "Slėgis žemesnis nei žalioje zonoje",
+        "reaction": ""
+    },
+    {
+        "id": 138,
+        "todoId": 60,
+        "possibleProblem": "Yra vandens nuotekis",
+        "reaction": ""
+    },
+    {
+        "id": 139,
+        "todoId": 60,
+        "possibleProblem": "Neveikia apšvietimas",
+        "reaction": ""
+    },
+    {
+        "id": 140,
+        "todoId": 60,
+        "possibleProblem": "Girdisi pašaliniai garsai",
+        "reaction": ""
+    },
+    {
+        "id": 141,
+        "todoId": 60,
+        "possibleProblem": "Yra šiukšlės, purvas, pašaliniai daiktai",
+        "reaction": ""
+    },
+    {
+        "id": 142,
+        "todoId": 60,
+        "possibleProblem": "Nelimpa kilimėlis",
+        "reaction": ""
+    },
+    {
+        "id": 143,
+        "todoId": 61,
+        "possibleProblem": "Įjungtas ne auto rėžimas",
+        "reaction": ""
+    },
+    {
+        "id": 144,
+        "todoId": 61,
+        "possibleProblem": "Garsai iš control panel ir rodoma klaida",
+        "reaction": ""
+    },
+    {
+        "id": 145,
+        "todoId": 61,
+        "possibleProblem": "Varva skysčiai",
+        "reaction": ""
+    },
+    {
+        "id": 146,
+        "todoId": 61,
+        "possibleProblem": "Yra vandens nuotekis",
+        "reaction": ""
+    },
+    {
+        "id": 147,
+        "todoId": 61,
+        "possibleProblem": "Neveikia apšvietimas",
+        "reaction": ""
+    },
+    {
+        "id": 148,
+        "todoId": 61,
+        "possibleProblem": "Yra šiukšlės, purvas, pašaliniai daiktai",
+        "reaction": ""
+    },
+    {
+        "id": 149,
+        "todoId": 61,
+        "possibleProblem": "Girdisi pašaliniai garsai",
+        "reaction": ""
+    },
+    {
+        "id": 150,
+        "todoId": 62,
+        "possibleProblem": "Garsai iš control panel ir rodoma klaida",
+        "reaction": ""
+    },
+    {
+        "id": 151,
+        "todoId": 62,
+        "possibleProblem": "Varva skysčiai",
+        "reaction": ""
+    },
+    {
+        "id": 152,
+        "todoId": 62,
+        "possibleProblem": "Yra vandens nuotekis",
+        "reaction": ""
+    },
+    {
+        "id": 153,
+        "todoId": 62,
+        "possibleProblem": "Neveikia apšvietimas",
+        "reaction": ""
+    },
+    {
+        "id": 154,
+        "todoId": 62,
+        "possibleProblem": "Yra šiukšlės, purvas, pašaliniai daiktai",
+        "reaction": ""
+    },
+    {
+        "id": 155,
+        "todoId": 62,
+        "possibleProblem": "Girdisi pašaliniai garsai",
         "reaction": ""
     }
 ]
